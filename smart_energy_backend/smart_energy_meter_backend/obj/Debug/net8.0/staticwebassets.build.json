@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bSYXL0RWR8I78VkwBwm+b7yRCrI27jACtyvymhog7nI=",
+  "Source": "smart_energy_meter_backend",
+  "BasePath": "_content/smart_energy_meter_backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

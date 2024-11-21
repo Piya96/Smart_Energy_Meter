@@ -1,0 +1,71 @@
+[
+  {
+    "ContainingType": "smart_energy_meter_backend.Controllers.PricePlanComparatorController",
+    "Method": "CalculatedCostForEachPricePlan",
+    "RelativePath": "price-plans/compare-all/{smartMeterId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "smartMeterId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "smart_energy_meter_backend.Controllers.PricePlanComparatorController",
+    "Method": "RecommendCheapestPricePlans",
+    "RelativePath": "price-plans/recommend/{smartMeterId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "smartMeterId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "limit",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "smart_energy_meter_backend.Controllers.MeterReadingController",
+    "Method": "GetReading",
+    "RelativePath": "readings/read/{smartMeterId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "smartMeterId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "smart_energy_meter_backend.Controllers.MeterReadingController",
+    "Method": "Post",
+    "RelativePath": "readings/store",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "meterReadings",
+        "Type": "smart_energy_meter_backend.Domain.MeterReadings",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\harir\\OneDrive\\Documents\\Personal\\Priyanka\\Learning\\Smart_meter_application\\Smart_Energy_Meter\\smart_energy_backend\\smart_energy_meter_backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54438D93-9944-4709-A12A-67129CBB7511}|smart_energy_meter_backend.csproj|c:\\users\\harir\\onedrive\\documents\\personal\\priyanka\\learning\\smart_meter_application\\smart_energy_meter\\smart_energy_backend\\smart_energy_meter_backend\\controllers\\priceplancomparatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54438D93-9944-4709-A12A-67129CBB7511}|smart_energy_meter_backend.csproj|solutionrelative:controllers\\priceplancomparatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54438D93-9944-4709-A12A-67129CBB7511}|smart_energy_meter_backend.csproj|c:\\users\\harir\\onedrive\\documents\\personal\\priyanka\\learning\\smart_meter_application\\smart_energy_meter\\smart_energy_backend\\smart_energy_meter_backend\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54438D93-9944-4709-A12A-67129CBB7511}|smart_energy_meter_backend.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54438D93-9944-4709-A12A-67129CBB7511}|smart_energy_meter_backend.csproj|c:\\users\\harir\\onedrive\\documents\\personal\\priyanka\\learning\\smart_meter_application\\smart_energy_meter\\smart_energy_backend\\smart_energy_meter_backend\\generator\\electricityreadinggenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54438D93-9944-4709-A12A-67129CBB7511}|smart_energy_meter_backend.csproj|solutionrelative:generator\\electricityreadinggenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54438D93-9944-4709-A12A-67129CBB7511}|smart_energy_meter_backend.csproj|c:\\users\\harir\\onedrive\\documents\\personal\\priyanka\\learning\\smart_meter_application\\smart_energy_meter\\smart_energy_backend\\smart_energy_meter_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54438D93-9944-4709-A12A-67129CBB7511}|smart_energy_meter_backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54438D93-9944-4709-A12A-67129CBB7511}|smart_energy_meter_backend.csproj|c:\\users\\harir\\onedrive\\documents\\personal\\priyanka\\learning\\smart_meter_application\\smart_energy_meter\\smart_energy_backend\\smart_energy_meter_backend\\smart_energy_meter_backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{54438D93-9944-4709-A12A-67129CBB7511}|smart_energy_meter_backend.csproj|solutionrelative:smart_energy_meter_backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PricePlanComparatorController.cs",
+              "DocumentMoniker": "C:\\Users\\harir\\OneDrive\\Documents\\Personal\\Priyanka\\Learning\\Smart_meter_application\\Smart_Energy_Meter\\smart_energy_backend\\smart_energy_meter_backend\\Controllers\\PricePlanComparatorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PricePlanComparatorController.cs",
+              "ToolTip": "C:\\Users\\harir\\OneDrive\\Documents\\Personal\\Priyanka\\Learning\\Smart_meter_application\\Smart_Energy_Meter\\smart_energy_backend\\smart_energy_meter_backend\\Controllers\\PricePlanComparatorController.cs",
+              "RelativeToolTip": "Controllers\\PricePlanComparatorController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:58:35.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ElectricityReadingGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\harir\\OneDrive\\Documents\\Personal\\Priyanka\\Learning\\Smart_meter_application\\Smart_Energy_Meter\\smart_energy_backend\\smart_energy_meter_backend\\Generator\\ElectricityReadingGenerator.cs",
+              "RelativeDocumentMoniker": "Generator\\ElectricityReadingGenerator.cs",
+              "ToolTip": "C:\\Users\\harir\\OneDrive\\Documents\\Personal\\Priyanka\\Learning\\Smart_meter_application\\Smart_Energy_Meter\\smart_energy_backend\\smart_energy_meter_backend\\Generator\\ElectricityReadingGenerator.cs",
+              "RelativeToolTip": "Generator\\ElectricityReadingGenerator.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:58:02.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "smart_energy_meter_backend",
+              "DocumentMoniker": "C:\\Users\\harir\\OneDrive\\Documents\\Personal\\Priyanka\\Learning\\Smart_meter_application\\Smart_Energy_Meter\\smart_energy_backend\\smart_energy_meter_backend\\smart_energy_meter_backend.csproj",
+              "RelativeDocumentMoniker": "smart_energy_meter_backend.csproj",
+              "ToolTip": "C:\\Users\\harir\\OneDrive\\Documents\\Personal\\Priyanka\\Learning\\Smart_meter_application\\Smart_Energy_Meter\\smart_energy_backend\\smart_energy_meter_backend\\smart_energy_meter_backend.csproj",
+              "RelativeToolTip": "smart_energy_meter_backend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-21T12:56:47.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\harir\\OneDrive\\Documents\\Personal\\Priyanka\\Learning\\Smart_meter_application\\Smart_Energy_Meter\\smart_energy_backend\\smart_energy_meter_backend\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\harir\\OneDrive\\Documents\\Personal\\Priyanka\\Learning\\Smart_meter_application\\Smart_Energy_Meter\\smart_energy_backend\\smart_energy_meter_backend\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAQwGEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:45:56.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\harir\\OneDrive\\Documents\\Personal\\Priyanka\\Learning\\Smart_meter_application\\Smart_Energy_Meter\\smart_energy_backend\\smart_energy_meter_backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\harir\\OneDrive\\Documents\\Personal\\Priyanka\\Learning\\Smart_meter_application\\Smart_Energy_Meter\\smart_energy_backend\\smart_energy_meter_backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:44:58.931Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
