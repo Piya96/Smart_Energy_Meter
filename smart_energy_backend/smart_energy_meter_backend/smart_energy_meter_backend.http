@@ -1,0 +1,6 @@
+@smart_energy_meter_backend_HostAddress = http://localhost:5070
+
+GET {{smart_energy_meter_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
